@@ -1,7 +1,7 @@
 # From Java Dev to AI Engineer: Spring AI Fast Track
 
 ## 🌱 Spring AI Course – Resources & Reference Links
-
+### Note : Original repo link is : https://github.com/eazybytes/spring-ai
 Welcome to the official GitHub repository for the **Spring AI Course**. This course helps you build intelligent applications using the Spring AI framework and integrate powerful LLMs like OpenAI into your Spring Boot apps.
 
 Below are some carefully curated reference links and tools used throughout the course. Bookmark this information for quick access during development and exploration.
